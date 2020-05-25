@@ -1,5 +1,5 @@
-# ACPM
-Artificial Prediction Markets for Online Prediction
+# ACPM (Artificial Prediction Markets for Online Prediction)
+
 For more information about the model and its usage, kilndly refer to this paper:
 Jahedpari, F., Rahwan, T., Hashemi, S., Michalak, T. P., De Vos, M., Padget, J., & Woon, W. L. (2017). Online Prediction via Continuous Artificial Prediction Markets. IEEE Intelligent Systems, 32(1), 61-68.
 
