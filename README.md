@@ -4,7 +4,7 @@ For more information about the model and its usage, kilndly refer to this paper:
 Jahedpari, F., Rahwan, T., Hashemi, S., Michalak, T. P., De Vos, M., Padget, J., & Woon, W. L. (2017). Online Prediction via Continuous Artificial Prediction Markets. IEEE Intelligent Systems, 32(1), 61-68.
 
 
-The folder contains 
+This folder contains 
 
 1) “src” folder: includes the source codes.
 2) “Data” folder: includes the data files
